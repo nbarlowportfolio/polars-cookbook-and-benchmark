@@ -1,3 +1,6 @@
+
+![Alt text](/polars-logo.png)
+
 This repo contains two Jupyter Notebooks: 
 
 1. A cookbook based on the official <a href="https://docs.pola.rs/">Pola.rs User Guide</a>
